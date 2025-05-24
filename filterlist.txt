@@ -1,0 +1,14 @@
+adservice.google.com
+afs.googlesyndication.com
+click.googleanalytics.com
+pixel.facebook.com
+events.reddit.com
+ads-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+ads-api.twitter.com
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
