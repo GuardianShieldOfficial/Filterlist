@@ -9,14 +9,14 @@ Blocks mobile-specific ad networks, telemetry, and analytics from major OEMs lik
 
 - **File:** `mobile.txt`
 - **Expires:** 1 day
-- **Direct URL:** [https://your-domain.com/android-ads-blocklist.txt](https://your-domain.com/android-ads-blocklist.txt)
+- **Direct URL:** [https://raw.githubusercontent.com/GuardianShieldOfficial/Filterlist/refs/heads/main/mobile.txt](https://raw.githubusercontent.com/GuardianShieldOfficial/Filterlist/refs/heads/main/mobile.txt)
 
 ### ✅ Universal/General Filter List
 Covers a wide range of common ad servers, trackers, analytics tools, and fingerprinting scripts across the web.
 
 - **File:** `desktop.txt`
 - **Expires:** 1 day
-- **Direct URL:** [https://your-domain.com/desktop.txt](https://your-domain.com/desktop-ads-blocklist.txt)
+- **Direct URL:** [https://raw.githubusercontent.com/GuardianShieldOfficial/Filterlist/refs/heads/main/desktop.txt](https://raw.githubusercontent.com/GuardianShieldOfficial/Filterlist/refs/heads/main/desktop.txt)
 
 ## ✅ How to Use
 
@@ -51,7 +51,7 @@ These blocklists are maintained by the community. Blocking domains may break cer
 
 ## 📬 Suggestions or Issues?
 
-Feel free to open a GitHub issue or contact via [your support URL or email].
+Feel free to open a GitHub issue.
 
 ---
 
