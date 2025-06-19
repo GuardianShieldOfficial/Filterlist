@@ -5,14 +5,14 @@ Custom filter lists to block ads, tracking, telemetry, and analytics across plat
 ## 📂 Available Lists
 
 ### ✅ Mobile Filter List
-Blocks mobile-specific ad networks, telemetry, and analytics from major OEMs like Xiaomi, Realme, OnePlus, and Samsung.
+This filterlist is for use in mobile extensions like AdGuard Content Blocker and uBlock Origin for Firefox mobile.
 
 - **File:** `mobile.txt`
 - **Expires:** 1 day
 - **Direct URL:** [https://raw.githubusercontent.com/GuardianShieldOfficial/Filterlist/refs/heads/main/mobile.txt](https://raw.githubusercontent.com/GuardianShieldOfficial/Filterlist/refs/heads/main/mobile.txt)
 
-### ✅ Universal/General Filter List
-Covers a wide range of common ad servers, trackers, analytics tools, and fingerprinting scripts across the web.
+### ✅ Desktop Filter List
+This Filterlist is for use in desktop extensions like uBlock Origin and Adblock Plus.
 
 - **File:** `desktop.txt`
 - **Expires:** 1 day
